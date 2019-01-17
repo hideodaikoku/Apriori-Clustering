@@ -7,7 +7,7 @@ Hideo Daikoku 71675597
 
 ![Data](https://djbooth.net/.image/t_share/MTUzNDg2NDUxODQ3NDczMDA5/music-theory-pic-1jpg.jpg)
 
-For this project, I decided to use [Hooktheory](www.hooktheory.com)- a website that shows how most popular songs are derived from the same set of chords. I took a list of my favorite songs and ran them through [UltimateGuitar.com](www.ultimateguitar.com). I retrieved the chords present in each song and wrote them to a csv file. I used this as my data for the Apriori Algorithm.
+For this project, I decided to use [Hooktheory](https://www.hooktheory.com/)- a website that shows how most popular songs are derived from the same set of chords. I took a list of my favorite songs and ran them through [UltimateGuitar.com](https://www.ultimate-guitar.com/). I retrieved the chords present in each song and wrote them to a csv file. I used this as my data for the Apriori Algorithm.
 
 ![Data](./data.png)
 

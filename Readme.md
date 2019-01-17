@@ -1,4 +1,4 @@
-#DataBase Architecture
+# DataBase Architecture
 Hideo Daikoku 71675597
 
 ## Apriori Algorithm
